@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+{
+	background-image:url(fondo.jpg);
+	margin-left:140px;
+	margin-right:140px;
+	padding-bottom:40px;
+	
+}
+#divlogo
+{
+	width: 600px;
+	height: 375px;	
+	margin: auto;
+}
+
+#busqueda
+{
+	position:absolute;
+	top:12px;
+	right:12px;	
+}
+
+#nav
+{
+	margin-bottom:25px;
+}
+
+.bienvenido
+{
+	margin-top:20px;
+	color:#1E10B4;
+	font-size:20px;
+	font-family:Georgia;
+}
+
+#texto_index
+{
+	text-align:justify;	
+}
